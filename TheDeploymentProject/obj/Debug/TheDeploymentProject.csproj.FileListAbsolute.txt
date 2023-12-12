@@ -1,0 +1,13 @@
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\bin\Debug\TheDeploymentProject.exe.config
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\bin\Debug\TheDeploymentProject.exe
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\bin\Debug\TheDeploymentProject.pdb
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\obj\Debug\TheDeploymentProject.csprojAssemblyReference.cache
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\obj\Debug\TheDeploymentProject.Form1.resources
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\obj\Debug\TheDeploymentProject.Properties.Resources.resources
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\obj\Debug\TheDeploymentProject.csproj.GenerateResource.cache
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\obj\Debug\TheDeploymentProject.csproj.CoreCompileInputs.cache
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\obj\Debug\TheDeploymentProject.exe
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\obj\Debug\TheDeploymentProject.pdb
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\bin\Debug\Poems\sam.txt
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\bin\Debug\Poems\ILostMyTalk.txt
+C:\Users\dkaukine\source\repos\TheDeploymentProject\TheDeploymentProject\bin\Debug\Poems\nightAir.txt
